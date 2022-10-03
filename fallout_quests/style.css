@@ -1,0 +1,14 @@
+body {
+  font-family: Consolas;
+}
+ul {
+  list-style-type: none;
+}
+
+table, th, td {
+  border: 1px dashed;
+  border-collapse: collapse;
+}
+a {
+  text-decoration: none;
+}

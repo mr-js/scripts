@@ -1,0 +1,1 @@
+"C:\Tools\AutoHotkey\Compiler\Ahk2Exe.exe" /in "gamma-control.ahk" /icon "gamma-control.ico"

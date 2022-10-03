@@ -1,0 +1,17 @@
+01.01.2022 05:42:00 -       INFO: starting...
+01.01.2022 05:42:00 -       INFO: data loading from data.json...
+01.01.2022 05:42:00 -       INFO: data loaded: data.json
+01.01.2022 05:42:00 -       INFO: items displaying...
+01.01.2022 05:42:00 -       INFO: displayed: 5 items
+01.01.2022 05:42:00 -       INFO: ====== WebDriver manager ======
+01.01.2022 05:42:01 -       INFO: Current edge version is 96.0.1054
+01.01.2022 05:42:01 -       INFO: Get LATEST edgedriver version for 96.0.1054 Edge
+01.01.2022 05:42:01 -    WARNING: Trying to detect encoding from a tiny portion of (30) byte(s).
+01.01.2022 05:42:01 -       INFO: Detected a SIG or BOM mark on first 2 byte(s). Priority +1 given for utf_16.
+01.01.2022 05:42:01 -       INFO: Code page utf_16 is a multi byte encoding table and it appear that at least one character was encoded using n-bytes.
+01.01.2022 05:42:01 -       INFO: utf_16 passed initial chaos probing. Mean measured chaos is 0.000000 %
+01.01.2022 05:42:01 -       INFO: utf_16 is most likely the one as we detected a BOM or SIG within the beginning of the sequence.
+01.01.2022 05:42:01 -       INFO: Driver [C:\Users\User\.wdm\drivers\edgedriver\win64\96.0.1054.62\msedgedriver.exe] found in cache
+01.01.2022 05:42:04 -       INFO: started: data.json, False, False, ['RU', 'Moscow', 'Moscow', '95.73.3.4']
+01.01.2022 05:42:05 -       INFO: data printing to export.html...
+01.01.2022 05:42:05 -       INFO: data printed: export.html
